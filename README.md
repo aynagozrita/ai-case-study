@@ -9,7 +9,7 @@
 * Since 1939, Hewlett-Packard has been a leader in technology and corporate culture, inspiring innovators and entrepreneurs around the globe.
 * Hewlett Packard Enterprise advances the way people live and work.
 * In 2019, the HPE Foundation launched HPE Accelerating Impact to engage team members in supporting tech non-profits who are building original hardware or software to achieve social impact missions. We partner with Fast Forward for this flagship initiative. Across 4 years, the initiative has mobilized $5+ million of HPE Foundation funding to support these tech non-profits, who have positively benefited more than 360 million lives.
-* Reference links: (whatis/definition/Hewlett-Packard-Enterprise-HP-Enterprise#:~:text=HPE%20was%20created%20in%20October,Company%20on%20February%2015%2C%202015) (https://www.hpe.com/us/en/about/history/timeline/timeline-growth.html) (https://www.hpe.com/us/en/about/history.html) (https://www.hpe.com/us/en/living-progress/hpe-foundation.html) (https://www.comparably.com/companies/hpe/mission) (https://www.techtarget.com/)
+* Reference links: (https://www.techtarget.com/whatis/definition/Hewlett-Packard-Enterprise-HP-Enterprise) (https://www.hpe.com/us/en/about/history/timeline/timeline-growth.html) (https://www.hpe.com/us/en/about/history.html) (https://www.hpe.com/us/en/living-progress/hpe-foundation.html) (https://www.comparably.com/companies/hpe/mission) (https://www.techtarget.com/)
 
 ## Business Activities
 
