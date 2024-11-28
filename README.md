@@ -1,7 +1,12 @@
-# HPE Ezmeral Sorfware (Enterprise Data, Analytics, and AI)
+# HPE Ezmeral Sorfware 
 
 
-[HPE and NVIDIA unlock AI](https://www.youtube.com/watch?v=TCsIAcd6aiw)
+
+[HPE and NVIDIA unlock AI](https://www.youtube.com/watch?v=TCsIAcd6aiw)        
+
+
+
+
 
 
 ## Overview and Origin
