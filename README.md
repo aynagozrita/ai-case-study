@@ -1,13 +1,10 @@
 # HPE Ezmeral Sorfware 
 
 
-
-[***HPE Ezmeral Software: Your one-stop shop for hybrid AI***](https://www.youtube.com/watch?v=nap5PxYnuLs)        
-
+![channels4_banner](https://github.com/user-attachments/assets/2053aed3-0442-44de-876e-516369f85ffc)
 
 
-
-
+## :cinema: [***A.I. awakens: HPE Ezmeral Software unleashes its potential***](https://www.youtube.com/watch?v=M-GuYKElxZg)       
 
 
 ## Overview and Origin
@@ -31,13 +28,16 @@ HPE Ezmeral's potential customers are primarily large enterprises looking to im
 
 **HPE Ezmeral** is a hybrid cloud platform that combines data from various technologies into a single database. It can be deployed in a variety of environments, including on-premises, at the edge, in co-location environments, and on Amazon Web Services, Microsoft Azure, and Google Cloud Platform. Features of HPE Ezmeral include:
 
-**Data Fabric:** Unifies data from different technologies into a single database 
+**Data Fabric:** Unifies data from different technologies into a single database.
 
-**Security:** Offers protection for data at rest and in motion, with authentication, authorization, and access control
+**Security:** Offers protection for data at rest and in motion, with authentication, authorization, and access control.
 
-**Scalability:** A single infrastructure can scale as needed without impacting security, data resilience, or service levels 
+**Scalability:** A single infrastructure can scale as needed without impacting security, data resilience, or service levels. 
 
 
+
+
+## :cinema: [What's new with HPE Ezmeral Software?](https://www.youtube.com/watch?v=2fGBDm1TwoQ)
 
 **HPE Ezmeral** consists of five key components, allowing customers to deploy and manage containerized applications across any infrastructure:  
 
@@ -111,6 +111,8 @@ I am sure the technology of automation and optimization of the management, scali
 
 
 
-*  Reference links: (whatis/definition/Hewlett-Packard-Enterprise-HP-Enterprise#:~:text=HPE%20was%20created%20in%20October,Company%20on%20February%2015%2C%202015) (https://www.hpe.com/us/en/about/history/timeline/timeline-growth.html) (https://www.hpe.com/us/en/about/history.html) (https://www.hpe.com/us/en/living-progress/hpe-foundation.html) (https://www.comparably.com/companies/hpe/mission) (https://www.techtarget.com/) (https://www.hpe.com/us/en/alliance/technology-ezmeral.html) (https://futurumgroup.com/insights/hpe-ezmeral-update-new-products-and-partnerships/) (https://www.hpe.com/us/en/alliance/technology-ezmeral.html) (https://www.servercomputeworks.com/Ezmeral-Data-Fabric.asp)(https://www.hpe.com/us/en/alliance/technology-ezmeral.html#:~:text=HPE%20Ezmeral%20Data%20Fabric%20simplifies,%2C%20security%2C%20or%20data%20resilience) (https://www.wwt.com/article/what-is-hpe-ezmeral)  (https://www.hpe.com/us/en/about.html) (https://www.hpe.com/us/en/newsroom/awards-recognition.html) (https://www.hpe.com/us/en/living-progress/awards.html#:~:text=responsible%20corporate%20behavior.-,Learn%20more,change%20in%20its%20supply%20chain)  (https://community.hpe.com/t5/advancing-life-work/hpe-accelerating-impact-2022/ba-p/7173582) (https://investors.hpe.com/#:~:text=Fiscal%202024%20Fourth%20Quarter%20Outlook,intangible%20assets%2C%20and%20transformation%20costs.).
+
+
+*  Reference links: (https://www.techtarget.com/whatis/definition/Hewlett-Packard-Enterprise-HP-Enterprise#:~:text=HPE%20was%20created%20in%20October,Company%20on%20February%2015%2C%202015) (https://www.hpe.com/us/en/about/history/timeline/timeline-growth.html) (https://www.hpe.com/us/en/about/history.html) (https://www.hpe.com/us/en/living-progress/hpe-foundation.html) (https://www.comparably.com/companies/hpe/mission) (https://www.techtarget.com/) (https://www.hpe.com/us/en/alliance/technology-ezmeral.html) (https://futurumgroup.com/insights/hpe-ezmeral-update-new-products-and-partnerships/) (https://www.hpe.com/us/en/alliance/technology-ezmeral.html) (https://www.servercomputeworks.com/Ezmeral-Data-Fabric.asp)(https://www.hpe.com/us/en/alliance/technology-ezmeral.html#:~:text=HPE%20Ezmeral%20Data%20Fabric%20simplifies,%2C%20security%2C%20or%20data%20resilience) (https://www.wwt.com/article/what-is-hpe-ezmeral)  (https://www.hpe.com/us/en/about.html) (https://www.hpe.com/us/en/newsroom/awards-recognition.html) (https://www.hpe.com/us/en/discover/pgs/awards.html) (https://www.hpe.com/us/en/living-progress/awards.html#:~:text=responsible%20corporate%20behavior.-,Learn%20more,change%20in%20its%20supply%20chain)  (https://community.hpe.com/t5/advancing-life-work/hpe-accelerating-impact-2022/ba-p/7173582) (https://investors.hpe.com/#:~:text=Fiscal%202024%20Fourth%20Quarter%20Outlook,intangible%20assets%2C%20and%20transformation%20costs.)(https://bernardmarr.com/hpe-empowers-users-with-generative-ai-through-advanced-computing-cloud-solutions/))(https://www.youtube.com/watch?v=nap5PxYnuLs)
 
 
